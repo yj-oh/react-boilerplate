@@ -22,5 +22,18 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-.idea/
 .eslintcache
+
+### WebStrom
+.idea/
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+*.code-workspace
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
